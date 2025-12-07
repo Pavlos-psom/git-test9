@@ -1,0 +1,12 @@
+package gr.aueb.cf.cf9.ch6;
+
+public class ArrayInit3
+{
+    public static void main(String[] args) {
+        int[] arr;
+                arr= new int[] {1,2,3,4,5,6,7,8,9,10};
+                int[] arr2=new int[]{1,3,5,6};
+
+    }
+
+}
